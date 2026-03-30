@@ -138,11 +138,11 @@ export function Services() {
               </CardBody>
             </Card>
           ))}
-          <Link to={"/services"}>
+          {/* <Link to={"/services"}>
           <Button className="bg-orange-600 text-white px-6 py-3 rounded-full hover:bg-orange-800 transition duration-300 mx-auto">
            View Our Services
           </Button>
-          </Link>
+          </Link> */}
         </div>
       </div>
     </section>

@@ -88,11 +88,11 @@ export function Hero() {
                 animate={{ opacity: currentSlide === index ? 1 : 0, y: currentSlide === index ? 0 : 50 }}
                 transition={{ duration: 0.8, delay: 0.6 }}
               >
-                <Link to={slide.buttonLink}>
+                {/* <Link to={slide.buttonLink}>
                   <Button className="bg-orange-700 text-white px-8 py-3 text-lg rounded-full hover:bg-orange-900 transition duration-300">
                     {slide.buttonText}
                   </Button>
-                </Link>
+                </Link> */}
               </motion.div>
             </div>
           </div>
