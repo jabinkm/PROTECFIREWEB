@@ -22,7 +22,7 @@ export function Contact() {
                 <i className="fas fa-map-marker-alt text-orange-600 mr-4 mt-1" />
                 <div>
                   <h3 className="text-lg font-semibold text-gray-800">Address</h3>
-                  <p className="text-gray-600">563, Al Muntasir street, Al Mamourah, Ras-Al-Khaimah, PO BOX-5611, United Arab Amirates.</p>
+                  <p className="text-gray-600">563, Al Muntasir street, Al Mamourah, Ras-Al-Khaimah, PO BOX-5611, United Arab Emirates.</p>
                 </div>
               </div>
               <div className="flex items-start">
