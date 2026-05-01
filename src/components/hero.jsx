@@ -12,19 +12,20 @@ export function Hero() {
   const [currentSlide, setCurrentSlide] = useState(0);
 
   const slides = [
-    {
-      bgImage: "/images/hero-bg.jpg",
-      title: "MECHANICAL ELECTRICAL AND PLUMBING SERVICES",
-      description: "Civil Defense approved Fire Protection System Installation and Maintenance Company involved in Supply, Installation, Testing,Commissioning and Maintenance of wide range of fire protection products and systems for Government Sector, Residential and Commercial Buildings, Educational Institutes, Hospitals and Clinics, Factories  Ware Houses and so on.",
-      buttonText: "Explore Our Services",
-      buttonLink: "/services"
-    },
+    
     {
       bgImage: "/images/hero-bg-2.jpg",
       title: "FIRE SYSTEM ANNUAL MAINTENANCE CONTRACT(AMC) SERVICES",
       description: "Our certified technicians deliver quarterly or annual inspections, including fire pump tests, smoke detector calibration, and system repairs, designed to maximize the lifespan of your equipments.",
       buttonText: "Contact Us",
       buttonLink: "/contact-us"
+    },
+    {
+      bgImage: "/images/hero-bg.jpg",
+      title: "MECHANICAL ELECTRICAL AND PLUMBING SERVICES",
+      description: "Civil Defense approved Fire Protection System Installation and Maintenance Company involved in Supply, Installation, Testing,Commissioning and Maintenance of wide range of fire protection products and systems for Government Sector, Residential and Commercial Buildings, Educational Institutes, Hospitals and Clinics, Factories  Ware Houses and so on.",
+      buttonText: "Explore Our Services",
+      buttonLink: "/services"
     },
     // {
     //   bgImage: "/images/tea.jpg",
