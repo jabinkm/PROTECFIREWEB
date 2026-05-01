@@ -135,7 +135,7 @@ export default function ContactPage() {
                     <Typography className="text-gray-700">
                       HEAD OFFICE<br />
                       563, Al Muntasir street, Al Mamourah, Ras-Al-Khaimah,<br />
-                      PO BOX-5611, United Arab Amirates.<br /><br />
+                      PO BOX-5611, United Arab Emirates.<br /><br />
                       OTHER BRANCHES<br />
                       ABU DHABI<br />
                       FUJAIRAH<br />
