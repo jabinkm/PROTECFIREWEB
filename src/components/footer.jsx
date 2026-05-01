@@ -36,7 +36,7 @@ export function Footer() {
               Contact Info
             </Typography>
             <Typography className="font-normal mb-2 text-blue-gray-400">
-              563, Al Muntasir street, Al Mamourah <br/>Ras-Al-Khaimah - PO BOX-5611, United Arab Amirates.
+              563, Al Muntasir street, Al Mamourah <br/>Ras-Al-Khaimah - PO BOX-5611, United Arab Emirates.
             </Typography>
             <Typography color="gray" className="font-normal mb-2">
             <p className="text-gray-600 hover:text-orange-500"><a href="tel:+971 7 202 3777">+971 7 202 3777</a></p>
