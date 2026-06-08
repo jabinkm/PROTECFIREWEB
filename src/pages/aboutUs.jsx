@@ -660,7 +660,8 @@ export default function AboutUs() {
               transition={{ duration: 0.8, delay: 0.4 }}
             >
               <h3 className="text-2xl font-bold mb-4 text-orange-600">Our Vision</h3>
-              <p>Our vision is to be one of the Leading companies in Kingdom of Saudi Arabia in our fields of operation; maintain highest quality and professionalism in our services; and actively contribute to Vision 2030.</p>
+              <p>Strive in the endless excellence race with an absolute commitment to
+quality and total dedication to customer care.</p>
             </motion.div>
             <motion.div 
               className="bg-white p-6 rounded-lg shadow-lg"
