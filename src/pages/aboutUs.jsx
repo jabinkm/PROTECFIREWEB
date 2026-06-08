@@ -474,7 +474,7 @@ const directors = [
     description: "Is leading up the directions of PROTEC FIRE Corporation, ensuring the implementation of policies and procedures, and responsibilities, with strong vision.",
   },
   {
-    image: "/images/MD1.png",
+    image: "/images/MD1.png.png",
     name: "Fathahudeen Kasim Bava",
     title: "General Manager",
     description: "With extensive experience in Fire fighting industry is ultimately responsible for the overall direction, the corporate strategies and Policies of PROTEC FIRE operations.",
