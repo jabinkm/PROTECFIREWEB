@@ -468,7 +468,7 @@ const coreValues = [
 
 const directors = [
   {
-    image: "/images/AhmedYoosuf1.jpg",
+    image: "/images/CHAIRMAN.png",
     name: "Ebrahim Ahmed Hassan Abdulla",
     title: "PRESIDENT",
     description: "Is leading up the directions of PROTEC FIRE Corporation, ensuring the implementation of policies and procedures, and responsibilities, with strong vision.",
