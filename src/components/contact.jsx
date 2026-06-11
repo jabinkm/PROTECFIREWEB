@@ -38,7 +38,7 @@ export function Contact() {
                 <div>
                   <h3 className="text-lg font-semibold text-gray-800">Email</h3>
                   <p className="text-gray-600 hover:text-sky-400"><a href="mailto:info@protecuae.com">info@protecuae.com</a></p>
-                  <p className="text-gray-600"><a href="mailto:ajesh@protecuae.com">ajesh@protecuae.com</a></p>
+                  <p className="text-gray-600"><a href="mailto:ajesh@protecuae.com">maintenance@protecuae.com</a></p>
                 </div>
               </div>
             </div>
