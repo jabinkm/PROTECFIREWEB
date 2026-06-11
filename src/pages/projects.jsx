@@ -1723,6 +1723,44 @@ export default function Projects() {
             </motion.div>
           </div>
         </motion.div>
+        {/* Video Showcase Section */}
+        <motion.section
+          initial={{ opacity: 0, y: 30 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.8 }}
+          className="container mx-auto px-4 pt-16"
+        >
+          <div className="grid grid-cols-2 gap-4 sm:gap-6 lg:gap-8 max-w-2xl mx-auto">
+            {[
+              { src: "/videos/project-video-1.mp4", title: "Al Hayer School, Al Ain" },
+              { src: "/videos/project-video-2.mp4", title: "Al Hayer School, Al Ain" },
+            ].map((video, index) => (
+              <motion.div
+                key={video.src}
+                initial={{ opacity: 0, scale: 0.95 }}
+                whileInView={{ opacity: 1, scale: 1 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.6, delay: index * 0.15 }}
+                className="flex flex-col"
+              >
+                <div className="relative overflow-hidden rounded-xl shadow-lg aspect-[9/16] bg-black">
+                  <video
+                    src={video.src}
+                    autoPlay
+                    loop
+                    muted
+                    playsInline
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+                <h3 className="mt-4 text-center text-lg font-semibold text-gray-900">
+                  {video.title}
+                </h3>
+              </motion.div>
+            ))}
+          </div>
+        </motion.section>
 
         {/* Filter Buttons */}
         {/* <div className="bg-gray-100 py-8">
