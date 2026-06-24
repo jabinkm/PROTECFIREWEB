@@ -30,6 +30,7 @@ export function Contact() {
                 <div>
                   <h3 className="text-lg font-semibold text-gray-800">Phone</h3>
                   <p className="text-gray-600"><a href="tel:+971 7 202 3777">+971 7 202 3777</a></p>
+                  <p className="text-gray-600"><a href="tel:+971 7 227 6611">+971 7 227 6611</a></p>
                   <p className="text-gray-600"><a href="tel:+971 56 118 4428">+971 56 118 4428</a></p>
                 </div>
               </div>
