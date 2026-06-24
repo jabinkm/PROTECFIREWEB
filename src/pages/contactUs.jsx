@@ -153,6 +153,7 @@ export default function ContactPage() {
                     <Typography variant="h6" className="mb-1">Phone</Typography>
                     <Typography className="text-gray-700">
                     <a href="tel:+971 7 202 3777">+971 7 202 3777</a>
+                    <p><a href="tel:+971 7 227 661">+971 7 227 6611</a></p>
                     <p><a href="tel:+971 56 118 4428">+971 56 118 4428</a></p>
                     </Typography>
                   </div>
@@ -166,7 +167,7 @@ export default function ContactPage() {
                     <Typography variant="h6" className="mb-1">Email</Typography>
                     <Typography className="">
                     <p className="text-gray-600 hover:text-orange-600"><a href="mailto:info@protecuae.com">info@protecuae.com</a></p>
-                    <p className="text-gray-600 hover:text-orange-600"><a href="mailto:ajesh@protecuae.com">ajesh@protecuae.com</a></p>
+                    <p className="text-gray-600 hover:text-orange-600"><a href="mailto:ajesh@protecuae.com">maintenance@protecuae.com</a></p>
                     </Typography>
                   </div>
                 </div>
@@ -178,7 +179,7 @@ export default function ContactPage() {
                   <div>
                     <Typography variant="h6" className="mb-1">Working Hours</Typography>
                     <Typography className="text-gray-700">
-                      Monday - Sunday: 8:00 AM - 6:00 PM
+                      Monday - Sunday: 8:00 AM - 8:00 PM
                     </Typography>
                   </div>
                 </div>
