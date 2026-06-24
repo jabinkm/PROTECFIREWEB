@@ -153,7 +153,7 @@ export default function ContactPage() {
                     <Typography variant="h6" className="mb-1">Phone</Typography>
                     <Typography className="text-gray-700">
                     <a href="tel:+971 7 202 3777">+971 7 202 3777</a>
-                    <p><a href="tel:+971 7 227 661">+971 7 227 6611</a></p>
+                    <p><a href="tel:+971 7 227 6611">+971 7 227 6611</a></p>
                     <p><a href="tel:+971 56 118 4428">+971 56 118 4428</a></p>
                     </Typography>
                   </div>
