@@ -40,6 +40,7 @@ export function Footer() {
             </Typography>
             <Typography color="gray" className="font-normal mb-2">
             <p className="text-gray-600 hover:text-orange-500"><a href="tel:+971 7 202 3777">+971 7 202 3777</a></p>
+            <p className="text-gray-600 hover:text-orange-500"><a href="tel:+971 7 202 3777">+971 7 227 6611</a></p>
             <p className="text-gray-600 hover:text-orange-500"><a href="tel:+971 56 118 4428">+971 56 118 4428</a></p>
             </Typography>
             <Typography color="gray" className="font-normal">
