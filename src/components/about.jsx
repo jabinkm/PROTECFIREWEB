@@ -49,7 +49,7 @@ export function About() {
             variants={itemVariants}
           >
             <img
-              src="/images/aboutHero.jpg"
+              src="/images/PF1.webp"
               alt="About PROTEC FIRE"
               width={600}
               height={400}
