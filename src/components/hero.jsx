@@ -124,7 +124,7 @@ export function Hero() {
         <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }}>
 
           <a href="https://www.instagram.com/protecfireuae/">
-          <IconButton color="white" variant="outlined" size="sm" className="hover:text-blue-700 hover:border-red-500 hover:bg-white">
+          <IconButton color="white" variant="outlined" size="sm" className="hover:text-red-700 hover:border-red-500 hover:bg-white">
             <i className="fab fa-instagram" />
           </IconButton>
           </a>
