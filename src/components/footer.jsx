@@ -58,17 +58,19 @@ export function Footer() {
                 <i className="fab fa-facebook-f" />
               </IconButton>
               </a>
-              <IconButton color="white" className="rounded-full">
+              {/* <IconButton color="white" className="rounded-full">
                 <i className="fab fa-twitter" />
-              </IconButton>
+              </IconButton> */}
               <a href="https://www.linkedin.com/company/protec-group/posts/">
               <IconButton color="white" className="rounded-full">
                 <i className="fab fa-linkedin-in" />
               </IconButton>
               </a>
+               <a href="https://www.instagram.com/protecfireuae">
               <IconButton color="white" className="rounded-full">
                 <i className="fab fa-instagram" />
               </IconButton>
+                </a>
             </div>
           </div>
         </div>
